@@ -76,7 +76,7 @@ main{
 }
 
 .card{
-    scroll-margin-top: 15.4rem;
+    scroll-margin-top: 13rem;
     width: min(100%, 300px);
     border: 2px double #fdf4ef;
     border-radius: 15px;
